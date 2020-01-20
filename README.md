@@ -1,4 +1,4 @@
-# PPproect
+# PPproject
 stock market gp/ar/regression
 problem: predicting next day high low open close markers
 eur_usd_data: dataset for the experiment 
